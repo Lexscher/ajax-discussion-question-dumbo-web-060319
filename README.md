@@ -66,10 +66,14 @@ fetchData()
 ### Question 3
 
 In your own words: what does asynchronous mean?
+Javascript can do many things at the same time, and then execute once everything has finished.
 
 ### Question 4
 
 Write out the request and response cycle. What is its purpose? How does it work?
+
+Client types in a url (Get Request to Server)
+Server responds with html css and JS
 
 ### Question 5
 
